@@ -1,0 +1,75 @@
+*{
+     box-sizing: border-boxs;
+}
+
+
+body{
+background-color:none; 
+}                              /* naam: ahmed alothman 
+                                    class:4a8a.
+                                     opdracht:  de groot     
+                                                       */
+ table {
+      margin: 80px auto;
+      border-collapse: collapse;
+    
+ }
+ tr  td{
+  /*border-right:2px solid red;
+   border-left:2px solid red;
+    border:  3px red   solid;*/
+ }
+
+img{
+     width: 100px;
+     height: 100px;
+     padding: 20px 0;
+    
+}
+#title{
+      font-size: 40px;
+      padding-left: 10px;
+      font-family:  sans-serif;
+}
+ #header{
+     font-size: 20px;
+     font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .emptyflied {
+    color:  red;
+    height: 18px;/* nfwdk*/
+ }
+ .price{
+      font-weight: bold;
+      text-decoration: underline;
+ }
+ .right{
+     text-align: right;
+     padding-left: 20px;
+ }
+ 
+ #Oneline{
+       padding-left:25px;
+       border-left:2px solid red;
+       color: rgb(29, 128, 189);
+      
+ }
+
+
+ .wid{
+     width:20px;    /* alle  td  3 geef ik width */
+ }
+.color{
+color: rgb(29, 128, 189);
+}
+ .two{
+     text-align: right;
+ }
+ #wayup{
+      color:red;
+ }
+.total, #totaal{
+      background-color: gray;
+      font: 20px bold;
+      
+}
