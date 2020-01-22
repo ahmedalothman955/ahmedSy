@@ -1,2 +1,6 @@
-Fully working PHP/AJAX contact form is available in the pro version of the template.
-You can buy it from: https://templatemag.com/instant-bootstrap-personal-template/
+Thanks for downloading this template!
+
+Template Name: Instant
+Template URL: https://templatemag.com/instant-bootstrap-personal-template/
+Author: TemplateMag.com
+License: https://templatemag.com/license/

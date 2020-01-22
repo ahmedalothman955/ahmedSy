@@ -1,0 +1,86 @@
+ body{
+      background-image: url("login1.jpeg");
+       background-size:cover;
+        padding: 0;
+        margin: 0;
+ }
+
+.container{
+     widows: 1700px;
+      margin:auto;
+}
+.bor{
+    border: solid 2px;
+     width: 350px;
+      height: 380px;
+      border-radius: 50px 30px;
+       text-align: center;
+       margin: 207px 0 0 580px; 
+       padding-top: 40px;
+        background-color: black;
+         opacity: 0.7;
+       
+         box-shadow: 5px 10px 100px red;
+
+}
+.bor:hover{
+    box-shadow: 5px 10px 18px rgb(131, 117, 117);
+}
+.container .bor .lab{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+     font: 30px;
+     
+}
+ h1 {
+      color: red;
+    margin-bottom:  50px;
+ } 
+   h1:hover{
+        transition: 2s;
+         color:rgb(240, 8, 58);
+          font: 40px;
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+
+ .container .bor .txt{
+    border-radius: 50px;
+     width: 240px;
+      height: 25px;
+       color: white;
+      border: none;
+       background-color: blue;
+        margin-top: 10px;
+         margin-bottom: 10px;
+}
+
+.container .bor .txt:hover{
+     width: 270px;
+}
+.pass{
+    border-radius: 50px;
+     width: 210px;
+      height: 25px;
+      color: white;
+      border: none;
+       background-color: blue;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.container .bor .pass:hover{
+    width: 250px;
+}
+.sub{
+    border-radius: 50px;
+     width: 100px;
+      height: 25px;
+      color: white;
+      border: none;
+       background-color: blue;
+        margin-top: 20px;
+        margin-bottom: 10px;
+}
+.container .bor .sub:hover{
+    width: 150px;
+     font-family:  'Arial Narrow', Arial, sans-serif;
+}
